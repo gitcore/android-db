@@ -1,4 +1,7 @@
 # android-db
+
+整理的自己整的orm，已经用在自己的项目，初版持续改进中
+
 ```java
 //创建表
 @Table(name = "test")
